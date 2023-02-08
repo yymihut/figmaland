@@ -1,0 +1,397 @@
+:host { 
+  display: contents; 
+}
+.price-card-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.price-card-frame-pricingstyle6 {
+  width: 357px;
+  height: auto;
+  display: flex;
+  align-self: center;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07000000029802322) ;
+  margin-top: 0px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(222, 222, 222, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackground);
+}
+.price-card-heading {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 14px;
+  flex-direction: column;
+}
+.price-card-h3 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 7px;
+}
+.price-card-text {
+  color: var(--dl-color-default-text);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 57px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-description {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.price-card-text02 {
+  color: var(--dl-color-default-secondtext);
+  width: 209px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-row {
+  display: flex;
+  padding: 15px 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 14px;
+  flex-direction: column;
+}
+.price-card-headline {
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.price-card-h1 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.price-card-text04 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 80px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-h31 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.price-card-text05 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 80px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-block {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.price-card-h6 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.price-card-text06 {
+  color: var(--dl-color-default-disabled);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-masterbutton {
+  width: auto;
+  display: flex;
+  padding: 18px 38px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 14px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-primary);
+}
+.price-card-text-button {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.price-card-text08 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-list {
+  width: 228px;
+  display: flex;
+  padding: 30px 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.price-card-pricing-feature {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 27px;
+}
+.price-card-frame37 {
+  width: 35px;
+  height: 35px;
+  position: relative;
+  margin-right: 20px;
+}
+.price-card-text10 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-pricing-feature1 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 27px;
+}
+.price-card-frame371 {
+  width: 35px;
+  height: 35px;
+  position: relative;
+  margin-right: 20px;
+}
+.price-card-text15 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-pricing-feature2 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 27px;
+}
+.price-card-frame372 {
+  width: 35px;
+  height: 35px;
+  opacity: 0.30;
+  position: relative;
+  margin-right: 20px;
+}
+.price-card-text17 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-pricing-feature3 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 27px;
+}
+.price-card-frame373 {
+  width: 35px;
+  height: 35px;
+  opacity: 0.30;
+  position: relative;
+  margin-right: 20px;
+}
+.price-card-text22 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-pricing-feature4 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.price-card-frame374 {
+  width: 35px;
+  height: 35px;
+  opacity: 0.30;
+  position: relative;
+  margin-right: 20px;
+}
+.price-card-text24 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.price-card-badge {
+  top: 95px;
+  right: 6px;
+  width: 90px;
+  height: 90px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.price-card-ellipse4 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  border-color: transparent;
+}
+.price-card-text29 {
+  top: 30.00003433227539px;
+  left: 16.999897003173828px;
+  color: var(--dl-color-default-lighttext);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 33px;
+}
+
+
+
+@media(max-width: 1600px) {
+  .price-card-container {
+    width: auto;
+    height: auto;
+  }
+  .price-card-frame-pricingstyle6 {
+    height: auto;
+    align-self: center;
+  }
+}
+@media(max-width: 1200px) {
+  .price-card-frame-pricingstyle6 {
+    width: 357px;
+    height: auto;
+    padding: 0px;
+    flex-direction: column;
+  }
+  .price-card-root-class-name {
+    flex: 1;
+    align-self: center;
+  }
+  .price-card-root-class-name1 {
+    flex: 1;
+    align-self: center;
+  }
+  .price-card-root-class-name2 {
+    flex: 1;
+    align-self: center;
+  }
+}
+@media(max-width: 991px) {
+  .price-card-container {
+    width: auto;
+    height: auto;
+  }
+  .price-card-frame-pricingstyle6 {
+    top: 1070px;
+    left: 0px;
+    right: 0px;
+    width: 357px;
+    margin: auto;
+    flex-direction: column;
+  }
+  .price-card-root-class-name {
+    flex: 1;
+    width: auto;
+  }
+}
